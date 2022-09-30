@@ -1,2 +1,2 @@
-# credit-card-fraud-detection
-This is the code base for credit card fraud detection
+# Credit Card Fraud Detection in Keras
+
